@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quizzie</string>
+
+
+    <string name="Question1">ShahJahan was the last Mughal Emperor</string>
+    <string name="Question2">Australia has won the Cricket Worldcup maximum number of times</string>
+    <string name="Question3">India got independence earlier than Pakistan</string>
+    <string name="Question4">Narendra Modi is the 15th PM of India</string>
+    <string name="Question5">France won the last football worldCup</string>
+    <string name="Question6">Roger Federer has won the French Open maximum number of times</string>
+    <string name="Question7">This app was made by Rohan Sharma</string>
+</resources>
