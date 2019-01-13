@@ -22,7 +22,8 @@ that can be used as a dependency in any other wallet based project.It is develop
 ## How to Contribute
 
 This is an OpenSource project and we would be happy to see new contributors. The issues should be raised via the github issue tracker.
-For Issue tracker guidelines please click <a href="https://github.com/openMF/mobile-wallet/blob/master/CONTRIBUTING.md">here</a>. All fixes should be proposed via pull requests. For pull request and commit guidelines please click <a href="https://github.com/openMF/mobile-wallet/blob/master/CONTRIBUTING.md">here</a>.
+For Issue tracker guidelines please click <a href="https://github.com/openMF/mobile-wallet/blob/master/CONTRIBUTING.md">here</a>. All fixes should be proposed via pull requests. For pull request guidelines please click <a href="https://github.com/openMF/mobile-wallet/blob/master/CONTRIBUTING.md">here</a>.For commit style guidelines please click <a href="
+https://github.com/openMF/mobile-wallet/wiki/Commit-style-guide">here</a>
 
 ### Branch Policy
 
